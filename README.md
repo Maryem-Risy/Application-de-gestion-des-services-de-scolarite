@@ -1,1 +1,2 @@
-# Application-de-gestion-des-services-de-scolarité
+# java_GL_Project
+logiciel de gestion des services scolaires
